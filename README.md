@@ -1,0 +1,2 @@
+# zonaabisal
+Dispositivo performático

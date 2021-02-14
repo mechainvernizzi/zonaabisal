@@ -23,3 +23,7 @@ Dimensiones: 62 x 20 x 8 mm
 3- Dispositivo inalambrico que envia valores con arduino nano.
 4- Se reciben valores a la computadora arduino con arduino 1.
 
+ARDUINO + MAXFOR LIFE
+
+-Desde el codigo de max se reciben los valores que se envian desde arduino para poder mapear parametros de ableton (modifica los volumenes de columnas de sonido)
+
